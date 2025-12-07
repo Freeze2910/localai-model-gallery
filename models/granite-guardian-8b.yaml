@@ -1,0 +1,7 @@
+name: granite-guardian-8b
+backend: llama-cpp
+parameters:
+  model: ibm-granite/granite-guardian-3.3-8b-GGUF
+  file: granite-guardian-3.3-8b-Q4_K_M.gguf
+  n_ctx: 8192
+  temperature: 0.2

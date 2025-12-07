@@ -1,0 +1,5 @@
+name: flux-7b
+backend: diffusion
+parameters:
+  model: mradermacher/flux-7b-v0.3-GGUF
+  file: flux-7b-v0.3.IQ4_XS.gguf

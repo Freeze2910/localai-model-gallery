@@ -1,0 +1,5 @@
+name: mxbai-rerank
+backend: llama-cpp
+parameters:
+  model: mradermacher/mxbai-rerank-large-v2-GGUF
+  file: mxbai-rerank-large-v2.f16.gguf

@@ -1,0 +1,7 @@
+name: internvl-3-5-8b
+backend: llama-cpp
+vision: true
+parameters:
+  model: mradermacher/InternVL3_5-8B-GGUF
+  file: InternVL3_5-8B.IQ4_XS.gguf
+  n_ctx: 8192

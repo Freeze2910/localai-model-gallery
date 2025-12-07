@@ -1,0 +1,6 @@
+name: mxbai-embed
+backend: llama-cpp
+embeddings: true
+parameters:
+  model: ChristianAzinn/mxbai-embed-large-v1-gguf
+  file: mxbai-embed-large-v1_fp16.gguf
